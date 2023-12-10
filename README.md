@@ -1,1 +1,4 @@
 # Solar-Panel-Adoption-A-Data-Driven-Analysis-of-Influencing-Factors
+
+Project Description :
+Solar energy is a readily available source of renewable energy. The adoption of solar panels has increased in the past few years for generating residential and commercial electricity. There are state and federal government incentives and programs like property tax exemption and net metering to provide financial assistance to families adopting solar. Different factors are associated with installing solar panels including cost advantages, affordability, availability, environmental factors, amount of sunlight received by the state, etc. With this project, we gather insights about how these factors affect the adoption of solar panels. These insights will help someone decide whether to install solar panels
